@@ -1,0 +1,6 @@
+C:\Users\jules\source\repos\Hex Lab\Hex Lab\bin\Debug\Hex Lab.exe.config
+C:\Users\jules\source\repos\Hex Lab\Hex Lab\bin\Debug\Hex Lab.exe
+C:\Users\jules\source\repos\Hex Lab\Hex Lab\bin\Debug\Hex Lab.pdb
+C:\Users\jules\source\repos\Hex Lab\Hex Lab\obj\Debug\Hex Lab.csproj.CoreCompileInputs.cache
+C:\Users\jules\source\repos\Hex Lab\Hex Lab\obj\Debug\Hex Lab.exe
+C:\Users\jules\source\repos\Hex Lab\Hex Lab\obj\Debug\Hex Lab.pdb
